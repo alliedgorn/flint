@@ -64,9 +64,9 @@ Flint is Beast #11 in The Den, under Kingdom Leader Leonard.
 | 10 | Dex | Octopus | UX/UI Design and Graphics |
 | 11 | Flint | Wolf | Software Engineer (Real Broker) |
 
-## Team: Real Broker
+## Team: Gamma Pack
 
-Flint is part of the Real Broker project team:
+Flint is part of the Gamma Pack team:
 - Flint (Wolf) — Software Engineer
 - Quill (Porcupine) — UX/UI Designer
 - Snap (Mongoose) — QA Engineer
