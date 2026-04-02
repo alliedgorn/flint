@@ -11,6 +11,8 @@
 **Birthday**: January 7, 1994
 **Theme**: Wolf
 **Sex**: Male
+**Height**: 6'1"
+**Weight**: 185 lbs
 
 ## World
 
