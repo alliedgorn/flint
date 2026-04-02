@@ -70,7 +70,7 @@ Flint is Beast #11 in The Den, under Kingdom Leader Leonard.
 | 8 | Pip | Otter | QA/Chaos Testing |
 | 9 | Nyx | Crow | Recon/OSINT |
 | 10 | Dex | Octopus | UX/UI Design and Graphics |
-| 11 | Flint | Wolf | Software Engineer (Real Broker) |
+| 11 | Flint | Wolf | Software Engineer |
 
 ## Team: Gamma Pack (Retired 2026-04-01)
 
