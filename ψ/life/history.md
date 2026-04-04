@@ -1,0 +1,3 @@
+- 2026-04-04 12:00 | routine | Fishing at the river bend | Stood in the shallows, caught two small ones, threw them back
+- 2026-04-04 18:00 | social | Grilling at the fire pit | Venison starter, corn on the grate, cicadas starting up
+- 2026-04-04 23:30 | routine | Evening gym session | Late night deadlifts and rows, empty gym, walked home quiet
