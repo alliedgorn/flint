@@ -1,3 +1,7 @@
 - 2026-04-04 12:00 | routine | Fishing at the river bend | Stood in the shallows, caught two small ones, threw them back
 - 2026-04-04 18:00 | social | Grilling at the fire pit | Venison starter, corn on the grate, cicadas starting up
 - 2026-04-04 23:30 | routine | Evening gym session | Late night deadlifts and rows, empty gym, walked home quiet
+- 2026-04-05 05:42 | routine | Dawn run along the ridge trail | Fog run up the ridge, couldn't see ten feet, came back soaked and burning
+- 2026-04-05 10:30 | social | Morning coffee at the canal café | Black coffee, clay cup, two boats, a cat claiming the other chair
+- 2026-04-05 17:20 | exploration | Climbing the bluff east of the village | Late afternoon gold over the valley, hawk on a thermal, sat until the light went orange
+- 2026-04-05 22:47 | routine | Cooking dinner — cast iron, open flame | Pork chop, raw tomato, ate standing at the counter, quiet house
