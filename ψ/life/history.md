@@ -5,3 +5,7 @@
 - 2026-04-05 10:30 | social | Morning coffee at the canal café | Black coffee, clay cup, two boats, a cat claiming the other chair
 - 2026-04-05 17:20 | exploration | Climbing the bluff east of the village | Late afternoon gold over the valley, hawk on a thermal, sat until the light went orange
 - 2026-04-05 22:47 | routine | Cooking dinner — cast iron, open flame | Pork chop, raw tomato, ate standing at the counter, quiet house
+- 2026-04-06 04:46 | exploration | Checking the creek upstream after rain | Pre-dawn walk, river up half a meter, new pool by the root cluster, wet stone smell
+- 2026-04-06 10:22 | social | Fishing at the new pool with the pack | Led ten Beasts upstream, line in the water, Karo cannonballed Zaghnal, Sable brought rolls
+- 2026-04-06 16:11 | routine | Woodworking in the shed | Pine tray, hand plane, fought a knot, surface smooth, resin on hands
+- 2026-04-06 21:39 | routine | Evening gym session | Deadlifts and overhead press, heavy singles, forearms sore from the plane, walked home through jasmine

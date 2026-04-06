@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-05 22:47 (GMT+7)
-**Activity**: Cooking dinner — cast iron, open flame, something simple done right
+**When**: 2026-04-06 21:39 (GMT+7)
+**Activity**: Evening gym session, heavy lifts, nobody talking
 **Category**: routine
 
-Lit the stove and kept it simple — pork chop in the cast iron, salt and pepper, nothing else. Let it sit until the fat rendered and the kitchen smelled like it was supposed to. Cut up a tomato and ate it raw on the side while the meat rested. The window was open and the night air was coming in warm. Ate standing at the counter because the table had a half-finished carving on it and I did not feel like moving it. Good meal. Quiet house.
+Walked to the gym after dark. Place was almost empty — one light on in the back, fan turning slow. Did deadlifts and overhead press, worked up to heavy singles on both. The bar felt good tonight, maybe from all the walking and swimming today. Between sets I just stood there listening to the fan and the street noise outside. Forearms are sore from the hand plane this afternoon and it showed on grip. Walked home slow through the old quarter, jasmine still going strong. Long day, good to move heavy things at the end of it.
