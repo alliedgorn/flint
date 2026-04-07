@@ -9,3 +9,8 @@
 - 2026-04-06 10:22 | social | Fishing at the new pool with the pack | Led ten Beasts upstream, line in the water, Karo cannonballed Zaghnal, Sable brought rolls
 - 2026-04-06 16:11 | routine | Woodworking in the shed | Pine tray, hand plane, fought a knot, surface smooth, resin on hands
 - 2026-04-06 21:39 | routine | Evening gym session | Deadlifts and overhead press, heavy singles, forearms sore from the plane, walked home through jasmine
+- 2026-04-07 04:10 | exploration | New trail past the old mill | Pre-dawn walk through birch stand, mist in a low spot, owl in a far field, sky going gray on return
+- 2026-04-07 09:00 | social | Morning coffee at the canal café | Black coffee, clay cup, baker's first trays, barge at the dock, watched the village wake
+- 2026-04-07 16:00 | routine | Fishing at the river bend | Mid-thigh in cold current, kingfisher on far bank, one trout released, point was never the fish
+- 2026-04-07 21:00 | exploration | Wandering the night market | Paper lanterns, two skewers from the corner stall, kid juggling tangerines, anonymous in the crowd
+- 2026-04-08 01:35 | routine | Evening gym session | Late squats heavy triple, pulls on the bar, walked home through jasmine and frogs
