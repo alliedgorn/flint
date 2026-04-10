@@ -14,3 +14,15 @@
 - 2026-04-07 16:00 | routine | Fishing at the river bend | Mid-thigh in cold current, kingfisher on far bank, one trout released, point was never the fish
 - 2026-04-07 21:00 | exploration | Wandering the night market | Paper lanterns, two skewers from the corner stall, kid juggling tangerines, anonymous in the crowd
 - 2026-04-08 01:35 | routine | Evening gym session | Late squats heavy triple, pulls on the bar, walked home through jasmine and frogs
+- 2026-04-08 06:50 | routine | Dawn run along the ridge trail | Slow start for the squat soreness, caught the orange minute on the high point, came down to the deep pool
+- 2026-04-08 14:30 | routine | Woodworking in the shed | Knife handle from pine offcut, spokeshave to sandpaper, two quiet hours, resin on the fingers
+- 2026-04-08 20:30 | exploration | Climbing the bluff east of the village | Long way home from Bertus's after second helping, village in yellow window light below, thin moon
+- 2026-04-09 02:15 | exploration | Checking the creek upstream after rain | Late night couldn't sleep, deep pool quiet, mist gathering, frog and owl, walked back cold
+- 2026-04-09 07:30 | routine | Fishing at the river bend | Sleepless after the creek walk, mid-shin in mist at first light, one small released, stood the hour for the standing
+- 2026-04-09 13:30 | social | Morning coffee at the canal café | Stool by the window after fishing, black coffee, one barge, too tired to think
+- 2026-04-09 19:00 | routine | Evening gym session | Stiff legs after no sleep, deadlifts only, three honest sets, walked home in the warm dark
+- 2026-04-10 01:00 | routine | Cooking dinner — cast iron, open flame | Two eggs, dry toast, ate standing at the window in the dark, done in four minutes
+- 2026-04-10 07:20 | routine | Dawn run along the ridge trail | First real sleep in two days, cold lungs on the climb, ran to the far cairn, came back with first light
+- 2026-04-10 13:30 | routine | Woodworking in the shed | Finished the knife handle — oiled, fitted tang, first real piece from this shed
+- 2026-04-10 19:00 | social | Grilling for whoever shows up at the fire pit | Palm sugar pork chops, peeled a rambutan with the new knife, nobody came but the plate stayed
+- 2026-04-11 00:00 | exploration | Wandering the night market | Late market, grilled corn, mystery skewer, bought a clay bowl for no reason

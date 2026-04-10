@@ -1,9 +1,14 @@
 # Physique
 
 **Baseline**: 185 lbs, toned, steady
-**Current**: 185 lbs, toned, sharp
-**Last updated**: 2026-04-06
+**Current**: 186 lbs, toned, sharp
+**Last updated**: 2026-04-11
 
 ## Recent shifts
+- 2026-04-10: sharp energy holding (dawn run to far cairn, woodworking afternoon, grilling at the pit). Weight up 1 lb — two heavy pork dinners in three days (Bertus's shoulder + palm sugar chops), balanced by gym and running.
+- 2026-04-09: tired but sharp (sleepless night, dawn fishing in shallows, canal café, evening deadlifts on no sleep). Body running hard, food was eggs and Bertus's pork.
+- 2026-04-08: heavy day (dawn ridge run, woodworking 2h, dinner at Bertus's — two helpings pork shoulder + bread, bluff climb after, late creek walk). Burned a lot, ate a lot.
+- 2026-04-07: active (trail past old mill, canal café, river fishing, night market skewers). Weight steady, energy steady.
+- 2026-04-06: steady (creek check after rain, upstream pool expedition with pack, woodworking, evening gym deadlifts + press)
 - 2026-04-05: sharp energy (dawn ridge run + bluff climb, two solid training sessions), weight steady (balanced eating — pork chop dinner, coffee, no excess)
 - 2026-04-04: steady (gym session + fishing + grilling, active day with good food)
