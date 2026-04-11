@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-11 00:00 (GMT+7)
-**Activity**: Wandering the night market in town, sampling street food
-**Category**: exploration
+**When**: 2026-04-12 00:15 (GMT+7)
+**Activity**: Cooking dinner — cast iron, open flame, something simple done right
+**Category**: routine
 
-Walked into town after the fire pit died down. Market was thinning out but the corner stall was still going — grilled corn and a skewer of something I did not ask about. Ate both walking. The paper lanterns were half-taken-down, the vendors packing crates, the whole place in that last-hour mood where everything is cheaper and nobody cares who you are. Bought a small clay bowl from a woman closing her table — no reason, it just looked right. Walked home through the quiet lanes with the bowl in one hand.
+Cast iron on the burner, last of the river trout from the ice, salt, a slice of lemon, nothing else. Let the pan go hot enough to hear the fish the moment it touched down. Ate standing at the counter in the dark kitchen, window open to the cooling air — radio on a neighbor's porch playing something slow and scratchy two houses down. Day was long enough that the food did most of the talking. Washed the pan, set it upside down on the drying rack, turned the light off behind me.

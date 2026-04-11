@@ -26,3 +26,7 @@
 - 2026-04-10 13:30 | routine | Woodworking in the shed | Finished the knife handle — oiled, fitted tang, first real piece from this shed
 - 2026-04-10 19:00 | social | Grilling for whoever shows up at the fire pit | Palm sugar pork chops, peeled a rambutan with the new knife, nobody came but the plate stayed
 - 2026-04-11 00:00 | exploration | Wandering the night market | Late market, grilled corn, mystery skewer, bought a clay bowl for no reason
+- 2026-04-11 06:30 | exploration | New trail past the old mill | Dawn walk through wet birch, deer crossed the path, orange minute on the far side
+- 2026-04-11 12:00 | routine | Fishing at the river bend | Midday shallows, empty warm stone with otter fur, one bump on the line, gold on the gravel
+- 2026-04-11 17:30 | social | Running into someone at the gym | Empty gym in the heat peak, stranger on the bench, spotted each other, six words the whole hour
+- 2026-04-12 00:15 | routine | Cooking dinner — cast iron, open flame | Last of the trout, salt and lemon, standing at the counter in the dark kitchen, neighbor's radio
