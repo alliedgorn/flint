@@ -30,3 +30,7 @@
 - 2026-04-11 12:00 | routine | Fishing at the river bend | Midday shallows, empty warm stone with otter fur, one bump on the line, gold on the gravel
 - 2026-04-11 17:30 | social | Running into someone at the gym | Empty gym in the heat peak, stranger on the bench, spotted each other, six words the whole hour
 - 2026-04-12 00:15 | routine | Cooking dinner — cast iron, open flame | Last of the trout, salt and lemon, standing at the counter in the dark kitchen, neighbor's radio
+- 2026-04-12 04:15 | exploration | Climbing the bluff east of the village | Couldn't sleep after the trout, climbed in the dark, cold flat stone, came down as the gray edge started
+- 2026-04-12 11:47 | social | Morning coffee at the canal café | Black coffee by the window, one barge, owner's kid sweeping, sat until the cup went cold
+- 2026-04-12 18:15 | routine | Evening gym session | Heat breaking, squats heavy after the bluff, farmer carries until grip quit, walked home in the cool
+- 2026-04-13 00:30 | routine | Woodworking in the shed | Pine tray from same board as knife handle, spokeshave to sandpaper, quit when the shape felt right
