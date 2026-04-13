@@ -38,3 +38,4 @@
 - 2026-04-13 11:45 | routine | Fishing at the river bend | High brown water, stood in the shallows, nothing caught, plastic chair floated past, rain came back
 - 2026-04-13 17:20 | exploration | Climbing the bluff east of the village | Post-rain climb, valley green and sharp, river brown below, gold light, came down through bamboo
 - 2026-04-13 22:30 | routine | Evening gym session | Deadlifts conservative after bluff, overhead press, farmer carries, walked home through wet jasmine streets
+- 2026-04-14 03:00 | exploration | Night walk along the river | High water, loud current, walked upstream to the creek junction, mud and frogs, village quiet on return
