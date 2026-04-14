@@ -42,3 +42,4 @@
 - 2026-04-14 04:04 | routine | Cooking dinner — cast iron, open flame | Three eggs in butter at 4am, ate standing at the dark window, frogs outside, village asleep
 - 2026-04-14 10:00 | routine | Dawn run along the ridge trail | Muddy switchbacks, flood damage visible from the high point, pushed to far cairn, came back in full sun
 - 2026-04-14 15:30 | routine | Woodworking in the shed | Shelf bracket from same pine board, spokeshave curves, two hours in the heat, gecko watching from the rafter
+- 2026-04-14 20:45 | social | Grilling for whoever shows up at the fire pit | Two river trout on coals, nobody showed for twenty minutes, ate one standing, wrapped the other for later
