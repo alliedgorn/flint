@@ -40,3 +40,5 @@
 - 2026-04-13 22:30 | routine | Evening gym session | Deadlifts conservative after bluff, overhead press, farmer carries, walked home through wet jasmine streets
 - 2026-04-14 03:00 | exploration | Night walk along the river | High water, loud current, walked upstream to the creek junction, mud and frogs, village quiet on return
 - 2026-04-14 04:04 | routine | Cooking dinner — cast iron, open flame | Three eggs in butter at 4am, ate standing at the dark window, frogs outside, village asleep
+- 2026-04-14 10:00 | routine | Dawn run along the ridge trail | Muddy switchbacks, flood damage visible from the high point, pushed to far cairn, came back in full sun
+- 2026-04-14 15:30 | routine | Woodworking in the shed | Shelf bracket from same pine board, spokeshave curves, two hours in the heat, gecko watching from the rafter
