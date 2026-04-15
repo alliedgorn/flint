@@ -43,3 +43,7 @@
 - 2026-04-14 10:00 | routine | Dawn run along the ridge trail | Muddy switchbacks, flood damage visible from the high point, pushed to far cairn, came back in full sun
 - 2026-04-14 15:30 | routine | Woodworking in the shed | Shelf bracket from same pine board, spokeshave curves, two hours in the heat, gecko watching from the rafter
 - 2026-04-14 20:45 | social | Grilling for whoever shows up at the fire pit | Two river trout on coals, nobody showed for twenty minutes, ate one standing, wrapped the other for later
+- 2026-04-15 06:30 | routine | Fishing at the river bend | Pre-dawn bend, two tilapia, kept the bigger one, carried it to Karo's stoop for breakfast
+- 2026-04-15 14:30 | exploration | Climbing the bluff east of the village | Post-breakfast food-coma walk, valley hazy, flat rock and wind, came down through bamboo
+- 2026-04-15 20:30 | routine | Evening gym session | Empty gym, deadlifts short of max (bluff legs), overhead press + farmer carries, jasmine walk home
+- 2026-04-16 03:30 | exploration | Wandering the night market in town | Restless wake, pork skewer and peanuts at the half-open market, quiet canal walk back, jasmine heavier at night

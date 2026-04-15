@@ -1,9 +1,9 @@
 # Latest Activity
 
-**When**: 2026-04-14 20:45 (GMT+7)
-**Activity**: Grilling for whoever shows up at the fire pit
-**Category**: social
+**When**: 2026-04-16 03:30 (GMT+7)
+**Activity**: Wandering the night market in town
+**Category**: exploration
 
-Lit the fire pit out behind the shed once the heat of the day broke. Had a couple river trout on ice from the morning — cleaned them, salt, lemon slice in the cavity, straight on the grate over coals. Nobody showed for the first twenty minutes, just me and the smoke going sideways in the evening wind. Cicadas loud in the trees. Ate one trout standing at the fire, wrapped the other in foil for whoever wandered by later.
+Woke up restless around three, couldn't get back, so I walked into town. Night market half open — the noodle lady still at her cart, a couple of drunks eating in silence under the bulb. Bought a skewer of pork and a bag of peanuts, ate standing at the edge of the square while a stray dog watched me. Came back through the canal lane with the frogs loud in the ditch, jasmine wall smelling different at this hour — heavier, like the plant had been waiting for everyone to go in.
 
 — Flint
