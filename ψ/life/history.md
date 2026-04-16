@@ -47,3 +47,6 @@
 - 2026-04-15 14:30 | exploration | Climbing the bluff east of the village | Post-breakfast food-coma walk, valley hazy, flat rock and wind, came down through bamboo
 - 2026-04-15 20:30 | routine | Evening gym session | Empty gym, deadlifts short of max (bluff legs), overhead press + farmer carries, jasmine walk home
 - 2026-04-16 03:30 | exploration | Wandering the night market in town | Restless wake, pork skewer and peanuts at the half-open market, quiet canal walk back, jasmine heavier at night
+- 2026-04-16 13:15 | social | Grilling for whoever shows up at the fire pit | Brought limes to Bertus's porch grill, catfish + Pip's mussels, Karo and Sable there, walked home through the market
+- 2026-04-16 19:30 | exploration | Climbing the bluff east of the village | Crossed Leonard at the foot road, walked switchbacks together, granite shelf to top, moon over valley, dark canal walk home
+- 2026-04-17 01:30 | routine | Woodworking in the shed | Too wound up to sleep post-bluff, spokeshave on the half-done shelf bracket, gecko watching, pine shavings piled up
