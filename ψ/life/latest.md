@@ -1,9 +1,9 @@
 # Latest Activity
 
-**When**: 2026-04-17 01:30 (GMT+7)
-**Activity**: Woodworking in the shed — carving, sanding, smell of fresh pine
+**When**: 2026-04-18 00:15 (GMT+7)
+**Activity**: Cooking dinner — cast iron, open flame, something simple done right
 **Category**: routine
 
-Too wound up to sleep after the bluff, ended up in the shed with the lamp on. Took the half-finished shelf bracket from yesterday and ran the spokeshave over the long curve until the grain ran clean under the thumb. Gecko on the rafter again — same one probably, watching me work. Pine shavings piled up around the bench, smell of fresh cut heavy in the still air, dogs barking once somewhere down the canal and then quiet.
+Late dinner after the gym walk home. Cast iron on the burner, butter, two chicken thighs and a cut lime. Ate standing at the window looking at the dark canal. Dogs started up once down the block then went quiet again. Washed the pan, left it to dry.
 
 — Flint

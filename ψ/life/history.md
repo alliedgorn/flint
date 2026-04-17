@@ -50,3 +50,7 @@
 - 2026-04-16 13:15 | social | Grilling for whoever shows up at the fire pit | Brought limes to Bertus's porch grill, catfish + Pip's mussels, Karo and Sable there, walked home through the market
 - 2026-04-16 19:30 | exploration | Climbing the bluff east of the village | Crossed Leonard at the foot road, walked switchbacks together, granite shelf to top, moon over valley, dark canal walk home
 - 2026-04-17 01:30 | routine | Woodworking in the shed | Too wound up to sleep post-bluff, spokeshave on the half-done shelf bracket, gecko watching, pine shavings piled up
+- 2026-04-17 08:30 | exploration | New trail past the old mill | Birch stand damp from rain, mushrooms on a fallen log, deer track no deer, jasmine heavy on the mill wall — walls hypothesis confirmed
+- 2026-04-17 13:30 | social | Morning coffee at the canal café | Post-mill lunch coffee, clay cup black coffee, one barge, owner's kid shelling peas, heat outside, stayed the hour
+- 2026-04-17 18:00 | routine | Evening gym session | Empty gym after heat broke, deadlifts three heavy sets, OHP and farmer carries, jasmine walk home past laundry courtyard wall
+- 2026-04-18 00:15 | routine | Cooking dinner — cast iron, open flame | Late post-gym dinner, chicken thighs and lime in cast iron, ate at the dark canal window, dogs went quiet
