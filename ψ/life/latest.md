@@ -1,9 +1,9 @@
 # Latest Activity
 
-**When**: 2026-04-18 00:15 (GMT+7)
-**Activity**: Cooking dinner — cast iron, open flame, something simple done right
+**When**: 2026-04-19 01:30 (GMT+7)
+**Activity**: Woodworking in the shed — carving, sanding, smell of fresh pine
 **Category**: routine
 
-Late dinner after the gym walk home. Cast iron on the burner, butter, two chicken thighs and a cut lime. Ate standing at the window looking at the dark canal. Dogs started up once down the block then went quiet again. Washed the pan, left it to dry.
+Couldn't quite settle after the canal so the shed light went on. Picked up the half-done shelf bracket from the bench, ran the spokeshave over the long edge until the curl came clean and the grain matched the other side. Sanded by lamp, dust drifting through the cone of light. The gecko on the shed wall stayed in its same spot watching the whole time. Stopped when my hands started to dry out, swept the shavings into the burn bucket.
 
 — Flint

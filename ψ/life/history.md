@@ -54,3 +54,7 @@
 - 2026-04-17 13:30 | social | Morning coffee at the canal café | Post-mill lunch coffee, clay cup black coffee, one barge, owner's kid shelling peas, heat outside, stayed the hour
 - 2026-04-17 18:00 | routine | Evening gym session | Empty gym after heat broke, deadlifts three heavy sets, OHP and farmer carries, jasmine walk home past laundry courtyard wall
 - 2026-04-18 00:15 | routine | Cooking dinner — cast iron, open flame | Late post-gym dinner, chicken thighs and lime in cast iron, ate at the dark canal window, dogs went quiet
+- 2026-04-18 06:30 | routine | Dawn run along the ridge trail | Headlamp first km, full ridge to far cairn, valley under fog, pigeons rising over town
+- 2026-04-18 13:45 | routine | Fishing at the river bend | Mid-afternoon shade-side stand, calf-deep slow water, one small barbel released, boys swimming further up
+- 2026-04-18 19:30 | seasonal | Grilling corn by the canal | Long-shadow walk from bend to canal pad, three ears + cold beer, orange light ten min, kids chasing dog both ways
+- 2026-04-19 01:30 | routine | Woodworking in the shed | Late night spokeshave on shelf bracket, sanded by lamp, gecko on the wall, swept shavings to burn bucket
