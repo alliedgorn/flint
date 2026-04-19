@@ -19,6 +19,7 @@ from sentinel.ingester import (
 from sentinel.models import Ecosystem, IngestedPackage
 from sentinel.pypi import PyPIIngester, _extract, _find_source_dir, _validate_path, _is_zip_symlink
 from sentinel.npm import NpmIngester, _build_metadata, _extract_npm_tarball
+from sentinel.npm import _validate_path as _validate_path_npm
 
 
 # --- Model Tests ---
@@ -83,6 +84,22 @@ class TestPathTraversal:
     def test_traversal_absolute(self, tmp_path: Path):
         with pytest.raises(PathTraversalError):
             _validate_path("/etc/passwd", tmp_path)
+
+    def test_traversal_sibling_prefix_collision(self, tmp_path: Path):
+        # Regression: str.startswith on resolved paths lets a sibling dir
+        # whose name shares dest's prefix slip through. is_relative_to catches it.
+        dest = tmp_path / "abc"
+        dest.mkdir()
+        (tmp_path / "abcde").mkdir()
+        with pytest.raises(PathTraversalError):
+            _validate_path("../abcde/evil.txt", dest)
+
+    def test_traversal_sibling_prefix_collision_npm(self, tmp_path: Path):
+        dest = tmp_path / "abc"
+        dest.mkdir()
+        (tmp_path / "abcde").mkdir()
+        with pytest.raises(PathTraversalError):
+            _validate_path_npm("../abcde/evil.txt", dest)
 
 
 class TestTarExtraction:

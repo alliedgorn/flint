@@ -143,7 +143,9 @@ async def _download(url: str) -> bytes:
 def _validate_path(member_path: str, dest: Path) -> Path:
     """Validate that an archive member path doesn't escape the destination."""
     resolved = (dest / member_path).resolve()
-    if not str(resolved).startswith(str(dest.resolve())):
+    # is_relative_to — not str.startswith — a sibling whose name shares dest's
+    # prefix (e.g. dest='/tmp/abc', sibling='/tmp/abcde') would pass startswith.
+    if not resolved.is_relative_to(dest.resolve()):
         raise PathTraversalError(f"Path traversal detected: {member_path}")
     return resolved
 
