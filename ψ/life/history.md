@@ -58,3 +58,5 @@
 - 2026-04-18 13:45 | routine | Fishing at the river bend | Mid-afternoon shade-side stand, calf-deep slow water, one small barbel released, boys swimming further up
 - 2026-04-18 19:30 | seasonal | Grilling corn by the canal | Long-shadow walk from bend to canal pad, three ears + cold beer, orange light ten min, kids chasing dog both ways
 - 2026-04-19 01:30 | routine | Woodworking in the shed | Late night spokeshave on shelf bracket, sanded by lamp, gecko on the wall, swept shavings to burn bucket
+- 2026-04-19 06:00 | routine | Dawn run along the ridge trail | Met Leonard at the high rock, owl cadence carried up from the canal, full ridge loop, valley grey going gold on return
+- 2026-04-19 07:30 | social | Morning coffee at the canal café | Post-ridge black coffee at clay cup, outside stool by water, one slow barge, cat took the chair first

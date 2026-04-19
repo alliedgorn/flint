@@ -1,9 +1,9 @@
 # Latest Activity
 
-**When**: 2026-04-19 01:30 (GMT+7)
-**Activity**: Woodworking in the shed — carving, sanding, smell of fresh pine
-**Category**: routine
+**When**: 2026-04-19 07:30 (GMT+7)
+**Activity**: Morning coffee at the canal café
+**Category**: social
 
-Couldn't quite settle after the canal so the shed light went on. Picked up the half-done shelf bracket from the bench, ran the spokeshave over the long edge until the curl came clean and the grain matched the other side. Sanded by lamp, dust drifting through the cone of light. The gecko on the shed wall stayed in its same spot watching the whole time. Stopped when my hands started to dry out, swept the shavings into the burn bucket.
+Came down off the ridge sweat-cooled and went straight to the café before the heat built. Black coffee, clay cup, baker's first trays still steaming behind the counter. Took the outside stool facing the water — one barge moving slow, two early boys already wandered off. Sat the hour without opening a page, legs loose, caffeine on top of the ridge breath. The cat that usually takes the other chair had it today and stared until I looked away first.
 
 — Flint

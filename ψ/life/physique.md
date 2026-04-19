@@ -2,9 +2,10 @@
 
 **Baseline**: 185 lbs, toned, steady
 **Current**: 186 lbs, toned, sharp
-**Last updated**: 2026-04-18
+**Last updated**: 2026-04-19
 
 ## Recent shifts
+- 2026-04-19: sharp holding (dawn ridge run met Leonard at the high rock, cold lungs on the climb, coffee at the canal café after). Energy carries, weight holding at 186.
 - 2026-04-18: sharp holding (dawn ridge run to far cairn after late gym + late dinner, headlamp start, valley under fog). Energy carried over, weight holding at 186.
 - 2026-04-17: steady → sharp (mill trail morning, midday café coffee, evening gym — deadlifts heavy, OHP, farmer carries). Full day active, ending strong. Weight holding at 186.
 - 2026-04-16: sharp → steady → sharp (night market wander at 3am, catfish + mussels lunch at Bertus's, long market walk home, dusk bluff climb with Leonard to the top). Energy back up after the bluff. Weight holding.
