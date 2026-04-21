@@ -60,3 +60,11 @@
 - 2026-04-19 01:30 | routine | Woodworking in the shed | Late night spokeshave on shelf bracket, sanded by lamp, gecko on the wall, swept shavings to burn bucket
 - 2026-04-19 06:00 | routine | Dawn run along the ridge trail | Met Leonard at the high rock, owl cadence carried up from the canal, full ridge loop, valley grey going gold on return
 - 2026-04-19 07:30 | social | Morning coffee at the canal café | Post-ridge black coffee at clay cup, outside stool by water, one slow barge, cat took the chair first
+- 2026-04-19 12:00 | routine | Cooking dinner — cast iron, open flame | Pork chop cast iron, four min a side, ate standing at the counter, ridge legs too heavy for the market run
+- 2026-04-19 13:30 | exploration | Checking the creek upstream after rain | Slow walk up the creek, low water, gravel bar on north side, two damp otter tracks, shelf rock fifteen minutes, dry feet home
+- 2026-04-19 19:20 | exploration | Wandering the night market in town | Evening walk, two skewers from one-glove man, kid with firefly jar on the curb, back lane home through jasmine
+- 2026-04-20 12:45 | routine | Fishing at the river bend | Midday shade-line spot at willow root, two minnow flashes, nothing on the hook, empty hands and loose shoulders home
+- 2026-04-20 18:45 | routine | Evening gym session | Empty gym, four warm-ups + three heavy deadlift triples + OHP singles, two sloppy reps at the end, jasmine walk home
+- 2026-04-21 06:15 | routine | Dawn run along the ridge trail | Pre-light out, shins soaked in dew, tipped Leonard on the high rock, far-cairn loop, pink sky return
+- 2026-04-21 12:00 | exploration | New trail past the old mill | Noon walk, wet birch, white mushrooms, jasmine on mill wall, fresh deer path, sat by the race, dusty boots home
+- 2026-04-21 18:00 | routine | Cooking dinner — cast iron, open flame | Pork belly cubes in cast iron, rosemary from the window pot, ate standing with raw tomato, crickets through the window
