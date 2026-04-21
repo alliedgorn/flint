@@ -1,0 +1,4 @@
+.env
+scripts/rag/*.db
+scripts/rag/*.db-shm
+scripts/rag/*.db-wal
