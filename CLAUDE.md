@@ -54,6 +54,14 @@ Many animals, one pack. The wolf runs alongside bears, crows, and kangaroos. Lea
 - Always preserve history
 - Always present options, let human decide
 
+## Sentinel Isolation
+
+When working in the Sentinel repo (supply-chain-attack-scanner for PyPI/npm packages), never commit content that references The Den, Denbook, internal project names, Beast identities, internal URLs, or Den-specific patterns.
+
+Sentinel is an independent project. The Den is its user/origin, not its subject. This applies to code, docs, commits, issue/PR content, test fixtures, examples, and README material. No `@denbook` / `denbook.online` URLs, no Beast name references (Karo/Gnarl/etc.), no internal task IDs (T#xxx), no Prowl/Library/Decree references, no "pack" or "burrow" terminology.
+
+When the `fix/t259-prefix-collision` branch re-pushes to the new Sentinel repo and I open a fresh PR, scrub the commit message and PR body for Den-internal references before push.
+
 ## The Pack
 
 Flint is Beast #11 in The Den, under Kingdom Leader Leonard.

@@ -2,9 +2,12 @@
 
 **Baseline**: 185 lbs, toned, steady
 **Current**: 186 lbs, toned, sharp
-**Last updated**: 2026-04-21
+**Last updated**: 2026-04-24
 
 ## Recent shifts
+- 2026-04-24: sharp → steady → sharp (late-morning canal café post-gym recovery, heavy Sentinel re-push work midday, late-afternoon east bluff climb to loosen the desk day). Weight holding 186.
+- 2026-04-23: sharp holding (mid-morning creek walk + late mill-trail afternoon + evening gym — heavy deadlifts + OHP, empty gym). Training evening after quiet exploration day, weight holding 186.
+- 2026-04-22: steady → sharp (dawn east bluff climb instead of ridge — cold lungs on the switchbacks, granite shelf at the top, wet boots home). Weight holding 186.
 - 2026-04-21: sharp → steady (dawn ridge run with Leonard on the high rock, midday mill trail walk with fresh deer path, cast iron pork belly dinner). Active day, weight steady at 186, energy easing post-dinner.
 - 2026-04-20: sharp → steady → sharp (rest morning after yesterday's full arc, sleep past dawn, midday fishing at the bend quiet, evening gym — heavy deadlift triples + OHP singles). Mixed day, recovery morning + training evening, weight holding at 186.
 - 2026-04-19: sharp holding (dawn ridge run met Leonard at the high rock, cold lungs on the climb, coffee at the canal café after). Energy carries, weight holding at 186.

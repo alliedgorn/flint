@@ -68,3 +68,14 @@
 - 2026-04-21 06:15 | routine | Dawn run along the ridge trail | Pre-light out, shins soaked in dew, tipped Leonard on the high rock, far-cairn loop, pink sky return
 - 2026-04-21 12:00 | exploration | New trail past the old mill | Noon walk, wet birch, white mushrooms, jasmine on mill wall, fresh deer path, sat by the race, dusty boots home
 - 2026-04-21 18:00 | routine | Cooking dinner — cast iron, open flame | Pork belly cubes in cast iron, rosemary from the window pot, ate standing with raw tomato, crickets through the window
+- 2026-04-21 23:40 | routine | Woodworking in the shed | Post-porch shed light, second shelf bracket on the rasp, opposite grain, same gecko on the wall, stopped when moon cleared the roof
+- 2026-04-22 05:30 | exploration | Climbing the bluff east of the village | Dawn track up the east bluff, gravel switchbacks wet with dew, sky grey to pink at the top, granite shelf minute, bamboo strip home
+- 2026-04-22 11:15 | social | Morning coffee at the canal café | Post-bluff black coffee, clay cup, outside stool, two barges one loaded with rice, sat the hour with legs loose
+- 2026-04-22 17:00 | routine | Fishing at the river bend | Late afternoon shade-side willow spot, cicadas cut when waded in, thirty-minute drift with one small tug, two bright fish flash at root cluster
+- 2026-04-22 23:00 | routine | Cooking dinner — cast iron, open flame | Late eggs and last smoked meat, shallot scraps browned first, standing at counter, frogs through back screen
+- 2026-04-23 10:40 | exploration | Checking the creek upstream after rain | Mid-morning walk up the creek, low water, root cluster above line now, dragonfly tracks on surface, ants on spider-carcass, shelf rock
+- 2026-04-23 16:30 | exploration | New trail past the old mill | Late afternoon dry birch strip, mill wall warm, jasmine heavy in shade-pocket, kite circled twenty min without flap, pink dust boots
+- 2026-04-23 22:15 | routine | Evening gym session | Late empty gym, one guy on treadmill, four heavy deadlift sets, OHP clean, jasmine courtyard walk home
+- 2026-04-24 10:00 | social | Morning coffee at the canal café | Late-morning black coffee, one reed barge, post-gym heavy legs, hour at the outside stool
+- 2026-04-24 16:00 | exploration | Climbing the bluff east of the village | Late afternoon desk-release climb, dry switchbacks hot stone, granite shelf shoulders-down, bamboo strip golden light home
+- 2026-04-24 21:45 | routine | Cooking dinner — cast iron, open flame | Late pork chop + Bertus chili oil + rice, standing at counter, crickets through the screen, heavy day close
