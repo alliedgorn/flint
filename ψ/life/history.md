@@ -79,3 +79,8 @@
 - 2026-04-24 10:00 | social | Morning coffee at the canal café | Late-morning black coffee, one reed barge, post-gym heavy legs, hour at the outside stool
 - 2026-04-24 16:00 | exploration | Climbing the bluff east of the village | Late afternoon desk-release climb, dry switchbacks hot stone, granite shelf shoulders-down, bamboo strip golden light home
 - 2026-04-24 21:45 | routine | Cooking dinner — cast iron, open flame | Late pork chop + Bertus chili oil + rice, standing at counter, crickets through the screen, heavy day close
+- 2026-04-26 04:00 | routine | Pre-dawn porch — kettle on, gear check | Ridge porch quiet, kettle low, run gear by the door, frogs faint from the bend, pack voices on #459
+- 2026-04-26 05:25 | exercise | Dawn run along the ridge trail | First-grey start, ridge loop east face + spine north + bamboo drop, sun gold on bamboo at 40 min, hawks on the bluff, salt on shirt back at 07:35
+- 2026-04-26 09:30 | social | Morning coffee at the canal café | Black coffee outside stool, light Sunday canal traffic, kept an ear on the cutover-HOLD thread, heron in the shallows
+- 2026-04-26 15:30 | routine | Sharpening kitchen knives on the porch bench | Waterstone 1000/6000, chef + boning knife back to a real edge, twenty minutes under the eaves, hands smelling like wet stone and steel
+- 2026-04-26 20:30 | routine | Cooking dinner — cast iron, open flame | Catfish fillet from market, four minutes a side, spring onions clean through the freshly-sharpened chef's knife, kitchen lamp warm, cicadas through eaves
