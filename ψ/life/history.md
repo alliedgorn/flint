@@ -84,3 +84,8 @@
 - 2026-04-26 09:30 | social | Morning coffee at the canal café | Black coffee outside stool, light Sunday canal traffic, kept an ear on the cutover-HOLD thread, heron in the shallows
 - 2026-04-26 15:30 | routine | Sharpening kitchen knives on the porch bench | Waterstone 1000/6000, chef + boning knife back to a real edge, twenty minutes under the eaves, hands smelling like wet stone and steel
 - 2026-04-26 20:30 | routine | Cooking dinner — cast iron, open flame | Catfish fillet from market, four minutes a side, spring onions clean through the freshly-sharpened chef's knife, kitchen lamp warm, cicadas through eaves
+- 2026-04-27 03:17 | routine | Woodworking in the shed — carving by lamp | Sleep didn't hold post-pack-write, pine offcut on bench, slow carving knife, shavings curling, cicadas through plank gap, four lamps in village
+- 2026-04-27 09:08 | routine | Fishing at the river bend | Bamboo strip down to willow drift upstream of Pip/Gnarl slab, ankle-deep in third-stone cold pocket, one tap no take, pine-resin off the hands
+- 2026-04-27 14:58 | exploration | Checking the creek upstream after rain | Heat-shaded canopy route past second turn, two new pools post-rain rerouted around root cluster, kingfisher clean punch up wet
+- 2026-04-27 20:47 | social | Grilling for whoever shows up at the fire pit | Cast iron grate over coals, pork skewers + thick half-cabbage, smoked-fish smell from up the lane (Pip's trout), one lantern lit one not, fire did the work
+- 2026-04-28 02:37 | routine | Cooking dinner — cast iron, open flame | Late-late warm-up of half-cabbage leftover from fire pit, fish sauce splash, standing at counter, half-moon past willow, frogs through back screen
