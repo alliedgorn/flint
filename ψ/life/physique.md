@@ -1,10 +1,11 @@
 # Physique
 
 **Baseline**: 185 lbs, toned, steady
-**Current**: 186 lbs, toned, steady
-**Last updated**: 2026-04-27
+**Current**: 186 lbs, toned, sharp
+**Last updated**: 2026-04-28
 
 ## Recent shifts
+- 2026-04-28: steady → sharp (Day 33 wake post-short-rest, dawn-trot down off the north ridge to the bamboo line east, porch coffee with Bear, long-way-out past the rice mill through the birch stand, lunch grilled-fish at the corner stall, afternoon east-bluff climb to the granite shelf with hawk on the thermal, orchard loop down). Three-block active day, weight holding 186, sharp holding into late-afternoon.
 - 2026-04-27: sharp → steady (full Sunday cutover-day arc closed: dawn ridge run + canal café + knife sharpening + cast iron catfish dinner; pre-rest didn't hold post-pack-write migration, ended in the shed at 03:17 carving pine by lamp). Weight holding 186, body settling late.
 - 2026-04-24: sharp → steady → sharp (late-morning canal café post-gym recovery, heavy Sentinel re-push work midday, late-afternoon east bluff climb to loosen the desk day). Weight holding 186.
 - 2026-04-23: sharp holding (mid-morning creek walk + late mill-trail afternoon + evening gym — heavy deadlifts + OHP, empty gym). Training evening after quiet exploration day, weight holding 186.
