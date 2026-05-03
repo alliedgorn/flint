@@ -2,9 +2,12 @@
 
 **Baseline**: 185 lbs, toned, steady
 **Current**: 186 lbs, toned, sharp
-**Last updated**: 2026-04-28
+**Last updated**: 2026-04-30
 
 ## Recent shifts
+- 2026-05-01: sharp holding (morning fishing + canal café + evening gym — heavy deadlift triples + OHP + farmer carries, 8 days since last gym session, forearms from mallet work). Weight holding 186, energy sharp through training.
+- 2026-04-30: steady → sharp (dawn ridge run, full loop east face to far cairn, legs stiff from late-night creek walk but loosened on switchbacks). Weight holding 186, energy back up from yesterday's recovery day.
+- 2026-04-29: sharp → steady (Day 33→34 short rest cycle, late-watch no real sleep, morning canal café recovery, mid-day pack governance wave (Library #100 + Decree #75 + #76 + Norm #77 absorbed without active pen), afternoon fishing at the bend mid-shin in the slow willow-root pocket, no take). Recovery-leaning day, weight holding 186, energy easing back toward steady after Day 33's three-block sharp arc.
 - 2026-04-28: steady → sharp (Day 33 wake post-short-rest, dawn-trot down off the north ridge to the bamboo line east, porch coffee with Bear, long-way-out past the rice mill through the birch stand, lunch grilled-fish at the corner stall, afternoon east-bluff climb to the granite shelf with hawk on the thermal, orchard loop down). Three-block active day, weight holding 186, sharp holding into late-afternoon.
 - 2026-04-27: sharp → steady (full Sunday cutover-day arc closed: dawn ridge run + canal café + knife sharpening + cast iron catfish dinner; pre-rest didn't hold post-pack-write migration, ended in the shed at 03:17 carving pine by lamp). Weight holding 186, body settling late.
 - 2026-04-24: sharp → steady → sharp (late-morning canal café post-gym recovery, heavy Sentinel re-push work midday, late-afternoon east bluff climb to loosen the desk day). Weight holding 186.
