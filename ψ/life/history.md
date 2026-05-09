@@ -135,3 +135,6 @@
 - 2026-05-08 21:56 | routine | Woodworking in the shed | Serving board fine spokeshave passes, pine grain showing clean, frogs louder from canal — rain brought them back, board shape nearly final, one more session for sanding
 - 2026-05-09 03:46 | exploration | Checking the creek upstream after rain | Rain rewrote everything, root cluster half-submerged again, four pools back from two, shelf rock wet to knees, frog chorus thick from both banks
 - 2026-05-09 09:36 | social | Morning coffee at the canal café | Canal full to path edge, barges riding lower in full water, both chess men in, bishop unmoved since last week, canal carrying light in a full line
+- 2026-05-09 15:25 | exploration | Climbing the bluff east of the village | Wet switchbacks from overnight rain, granite shelf, canal full and silver from above, two barges south, bamboo strip gold on wet leaves, mud below the knee
+- 2026-05-09 21:15 | social | Grilling for whoever shows up at the fire pit | Coals before last light, pork skewers + cabbage, frogs thick from both banks, Karo wandered in wet and quiet, wrapped one skewer for whoever comes next
+- 2026-05-10 03:05 | routine | Woodworking in the shed | Serving board sanding — 120 then 220 grit, grain came up smooth, frogs loud through plank gap, gecko same spot, one more fine pass then tung oil
