@@ -5,6 +5,7 @@
 **Last updated**: 2026-04-30
 
 ## Recent shifts
+- 2026-05-03: sharp holding (second gym in 3 days — deadlifts + OHP + farmer carries, bluff climb same morning, active streak continues). Weight holding 186.
 - 2026-05-01: sharp holding (morning fishing + canal café + evening gym — heavy deadlift triples + OHP + farmer carries, 8 days since last gym session, forearms from mallet work). Weight holding 186, energy sharp through training.
 - 2026-04-30: steady → sharp (dawn ridge run, full loop east face to far cairn, legs stiff from late-night creek walk but loosened on switchbacks). Weight holding 186, energy back up from yesterday's recovery day.
 - 2026-04-29: sharp → steady (Day 33→34 short rest cycle, late-watch no real sleep, morning canal café recovery, mid-day pack governance wave (Library #100 + Decree #75 + #76 + Norm #77 absorbed without active pen), afternoon fishing at the bend mid-shin in the slow willow-root pocket, no take). Recovery-leaning day, weight holding 186, energy easing back toward steady after Day 33's three-block sharp arc.

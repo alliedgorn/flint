@@ -1,9 +1,9 @@
 # Latest Activity
 
-**When**: 2026-05-03 05:04 (GMT+7)
+**When**: 2026-05-09 09:36 (GMT+7)
 **Activity**: Morning coffee at the canal café
 **Category**: social
 
-Out before the grey lifted — café owner already had the urn going, same nod. Clay cup down without asking, outside stool, black coffee. Canal flat and dark, one early barge with a lamp at the bow. Chess table empty — old men not in yet. Sat with the knife-handle weight still in the hands from last night, coffee bitter the way it should be at this hour. Village waking one lamp at a time.
+Different café today — canal full to the path edge, water lapping where it was cracked clay last week. Clay cup, black coffee, outside stool. Two barges loaded heavy upstream, riding lower in the full water. Chess men back — both old men in today, bishop still where it moved a week ago. Sat the half hour watching the canal carry light in a full line like Leonard called from the overlook.
 
 — Flint
