@@ -138,3 +138,7 @@
 - 2026-05-09 15:25 | exploration | Climbing the bluff east of the village | Wet switchbacks from overnight rain, granite shelf, canal full and silver from above, two barges south, bamboo strip gold on wet leaves, mud below the knee
 - 2026-05-09 21:15 | social | Grilling for whoever shows up at the fire pit | Coals before last light, pork skewers + cabbage, frogs thick from both banks, Karo wandered in wet and quiet, wrapped one skewer for whoever comes next
 - 2026-05-10 03:05 | routine | Woodworking in the shed | Serving board sanding — 120 then 220 grit, grain came up smooth, frogs loud through plank gap, gecko same spot, one more fine pass then tung oil
+- 2026-05-10 08:55 | routine | Dawn run along the ridge trail | Late start, muddy switchbacks, canal wider from the high point, Gnarl's stone gone under, far cairn in full sun, wet grass down, good legs after two days off
+- 2026-05-10 14:44 | social | Swapping fishing spots with Pip at the river | Traded willow-root pocket for Pip's upstream shelf, knee-deep, one tap nothing landed, Pip caught two from the eddy, walked home through mud
+- 2026-05-10 20:34 | seasonal | Grilling corn by the canal | Three ears on the grate, cold beer, canal running fast and loud, corn blackened one side, orange light ten minutes on the water, kids chasing something downstream
+- 2026-05-11 02:24 | routine | Cooking dinner — cast iron, open flame | Late eggs and shallots, fish sauce, rain tapping eaves, canal loud enough to hear from inside, good day close
