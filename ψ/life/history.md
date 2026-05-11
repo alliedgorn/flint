@@ -143,3 +143,4 @@
 - 2026-05-10 20:34 | seasonal | Grilling corn by the canal | Three ears on the grate, cold beer, canal running fast and loud, corn blackened one side, orange light ten minutes on the water, kids chasing something downstream
 - 2026-05-11 02:24 | routine | Cooking dinner — cast iron, open flame | Late eggs and shallots, fish sauce, rain tapping eaves, canal loud enough to hear from inside, good day close
 - 2026-05-11 08:13 | exploration | Checking the creek upstream after rain | Root cluster submerged, four pools merged into one run, shelf rock underwater, hardwood branch salvaged for the shed, boots soaked before first turn
+- 2026-05-11 14:03 | routine | Fishing at the river bend | River high and brown, forty minutes no take, kingfisher working the eddy, packed up loose in the shoulders
