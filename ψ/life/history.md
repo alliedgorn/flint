@@ -144,3 +144,6 @@
 - 2026-05-11 02:24 | routine | Cooking dinner — cast iron, open flame | Late eggs and shallots, fish sauce, rain tapping eaves, canal loud enough to hear from inside, good day close
 - 2026-05-11 08:13 | exploration | Checking the creek upstream after rain | Root cluster submerged, four pools merged into one run, shelf rock underwater, hardwood branch salvaged for the shed, boots soaked before first turn
 - 2026-05-11 14:03 | routine | Fishing at the river bend | River high and brown, forty minutes no take, kingfisher working the eddy, packed up loose in the shoulders
+- 2026-05-11 14:51 | social | Grilling for whoever shows up at the fire pit | Post-fishing pork skewers on coals, Bertus's board already clean, Rax on the low wall, fat dripping in still air
+- 2026-05-11 17:04 | exploration | Climbing the bluff east of the village | Late sun, warm granite shelf, river brown and wide below, hawks on thermals, orchard walk down in first cool air
+- 2026-05-11 22:53 | routine | Woodworking in the shed | Final fine-grit sand + first tung oil coat on serving board, rain on tin roof, board hung to cure — done piece

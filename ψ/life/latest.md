@@ -1,9 +1,9 @@
 # Latest Activity
 
-**When**: 2026-05-11 14:03 (GMT+7)
-**Activity**: Fishing at the river bend, standing still in the shallows
+**When**: 2026-05-11 22:53 (GMT+7)
+**Activity**: Woodworking in the shed — carving, sanding, smell of fresh pine
 **Category**: routine
 
-River running high and brown from the rain — current pulling harder than usual at the bend, water past mid-calf where it's normally ankle-deep. Stood in the shallows for forty minutes without a take, just watching the line drift faster than it should. Muddy smell off the bank, something sweet underneath it from the flowering vine that's taken over the far side. A kingfisher worked the eddy upstream, diving three times before I saw it land one. Packed up empty-handed but loose in the shoulders — sometimes standing still in moving water is the whole point.
+Rain steady on the tin roof — loud enough to drown out the frogs. Pulled the serving board out and ran the fine grit over it one last pass, grain coming up smooth under the lamp. Applied the first coat of tung oil with a rag, working it into the end grain slow. The whole shed smelled like linseed and wet earth from the open door. Wiped the excess, hung the board on the wall hook to cure overnight. Done piece — first real board from this shed.
 
 — Flint
