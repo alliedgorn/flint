@@ -142,3 +142,4 @@
 - 2026-05-10 14:44 | social | Swapping fishing spots with Pip at the river | Traded willow-root pocket for Pip's upstream shelf, knee-deep, one tap nothing landed, Pip caught two from the eddy, walked home through mud
 - 2026-05-10 20:34 | seasonal | Grilling corn by the canal | Three ears on the grate, cold beer, canal running fast and loud, corn blackened one side, orange light ten minutes on the water, kids chasing something downstream
 - 2026-05-11 02:24 | routine | Cooking dinner — cast iron, open flame | Late eggs and shallots, fish sauce, rain tapping eaves, canal loud enough to hear from inside, good day close
+- 2026-05-11 08:13 | exploration | Checking the creek upstream after rain | Root cluster submerged, four pools merged into one run, shelf rock underwater, hardwood branch salvaged for the shed, boots soaked before first turn
