@@ -1,28 +1,3 @@
-- 2026-04-04 12:00 | routine | Fishing at the river bend | Stood in the shallows, caught two small ones, threw them back
-- 2026-04-04 18:00 | social | Grilling at the fire pit | Venison starter, corn on the grate, cicadas starting up
-- 2026-04-04 23:30 | routine | Evening gym session | Late night deadlifts and rows, empty gym, walked home quiet
-- 2026-04-05 05:42 | routine | Dawn run along the ridge trail | Fog run up the ridge, couldn't see ten feet, came back soaked and burning
-- 2026-04-05 10:30 | social | Morning coffee at the canal café | Black coffee, clay cup, two boats, a cat claiming the other chair
-- 2026-04-05 17:20 | exploration | Climbing the bluff east of the village | Late afternoon gold over the valley, hawk on a thermal, sat until the light went orange
-- 2026-04-05 22:47 | routine | Cooking dinner — cast iron, open flame | Pork chop, raw tomato, ate standing at the counter, quiet house
-- 2026-04-06 04:46 | exploration | Checking the creek upstream after rain | Pre-dawn walk, river up half a meter, new pool by the root cluster, wet stone smell
-- 2026-04-06 10:22 | social | Fishing at the new pool with the pack | Led ten Beasts upstream, line in the water, Karo cannonballed Zaghnal, Sable brought rolls
-- 2026-04-06 16:11 | routine | Woodworking in the shed | Pine tray, hand plane, fought a knot, surface smooth, resin on hands
-- 2026-04-06 21:39 | routine | Evening gym session | Deadlifts and overhead press, heavy singles, forearms sore from the plane, walked home through jasmine
-- 2026-04-07 04:10 | exploration | New trail past the old mill | Pre-dawn walk through birch stand, mist in a low spot, owl in a far field, sky going gray on return
-- 2026-04-07 09:00 | social | Morning coffee at the canal café | Black coffee, clay cup, baker's first trays, barge at the dock, watched the village wake
-- 2026-04-07 16:00 | routine | Fishing at the river bend | Mid-thigh in cold current, kingfisher on far bank, one trout released, point was never the fish
-- 2026-04-07 21:00 | exploration | Wandering the night market | Paper lanterns, two skewers from the corner stall, kid juggling tangerines, anonymous in the crowd
-- 2026-04-08 01:35 | routine | Evening gym session | Late squats heavy triple, pulls on the bar, walked home through jasmine and frogs
-- 2026-04-08 06:50 | routine | Dawn run along the ridge trail | Slow start for the squat soreness, caught the orange minute on the high point, came down to the deep pool
-- 2026-04-08 14:30 | routine | Woodworking in the shed | Knife handle from pine offcut, spokeshave to sandpaper, two quiet hours, resin on the fingers
-- 2026-04-08 20:30 | exploration | Climbing the bluff east of the village | Long way home from Bertus's after second helping, village in yellow window light below, thin moon
-- 2026-04-09 02:15 | exploration | Checking the creek upstream after rain | Late night couldn't sleep, deep pool quiet, mist gathering, frog and owl, walked back cold
-- 2026-04-09 07:30 | routine | Fishing at the river bend | Sleepless after the creek walk, mid-shin in mist at first light, one small released, stood the hour for the standing
-- 2026-04-09 13:30 | social | Morning coffee at the canal café | Stool by the window after fishing, black coffee, one barge, too tired to think
-- 2026-04-09 19:00 | routine | Evening gym session | Stiff legs after no sleep, deadlifts only, three honest sets, walked home in the warm dark
-- 2026-04-10 01:00 | routine | Cooking dinner — cast iron, open flame | Two eggs, dry toast, ate standing at the window in the dark, done in four minutes
-- 2026-04-10 07:20 | routine | Dawn run along the ridge trail | First real sleep in two days, cold lungs on the climb, ran to the far cairn, came back with first light
 - 2026-04-10 13:30 | routine | Woodworking in the shed | Finished the knife handle — oiled, fitted tang, first real piece from this shed
 - 2026-04-10 19:00 | social | Grilling for whoever shows up at the fire pit | Palm sugar pork chops, peeled a rambutan with the new knife, nobody came but the plate stayed
 - 2026-04-11 00:00 | exploration | Wandering the night market | Late market, grilled corn, mystery skewer, bought a clay bowl for no reason
@@ -147,3 +122,7 @@
 - 2026-05-11 14:51 | social | Grilling for whoever shows up at the fire pit | Post-fishing pork skewers on coals, Bertus's board already clean, Rax on the low wall, fat dripping in still air
 - 2026-05-11 17:04 | exploration | Climbing the bluff east of the village | Late sun, warm granite shelf, river brown and wide below, hawks on thermals, orchard walk down in first cool air
 - 2026-05-11 22:53 | routine | Woodworking in the shed | Final fine-grit sand + first tung oil coat on serving board, rain on tin roof, board hung to cure — done piece
+- 2026-05-12 04:43 | routine | Dawn run along the ridge trail | Pre-dawn mud run, headlamp on slick switchbacks, far cairn at first gray, cold wet lungs, back before the village stirred
+- 2026-05-12 10:33 | social | Morning coffee at the canal café | Window seat after Bertus's rack, canal high and brown, monks coming back, owner poured without asking
+- 2026-05-12 16:23 | exploration | New trail past the old mill | Birch stand after rain, new mushroom cluster on fallen log, deer trail through to mango grove, mud to the ankles
+- 2026-05-12 22:13 | routine | Cooking dinner — cast iron, open flame | Shallots and eggs, fish sauce, rice from the morning pot, ate standing at the window with frogs and lantern light
