@@ -126,3 +126,6 @@
 - 2026-05-12 10:33 | social | Morning coffee at the canal café | Window seat after Bertus's rack, canal high and brown, monks coming back, owner poured without asking
 - 2026-05-12 16:23 | exploration | New trail past the old mill | Birch stand after rain, new mushroom cluster on fallen log, deer trail through to mango grove, mud to the ankles
 - 2026-05-12 22:13 | routine | Cooking dinner — cast iron, open flame | Shallots and eggs, fish sauce, rice from the morning pot, ate standing at the window with frogs and lantern light
+- 2026-05-13 09:52 | routine | Woodworking in the shed | Pine offcut for a spoon, gouge + mallet, knot near handle turned the piece, birds and chip-sound only voice in alley
+- 2026-05-13 15:42 | exploration | Climbing the bluff east of the village | First dry climb in a week, granite biting back into pads, hawk on low thermal twice, stayed till shadows reached the shelf
+- 2026-05-13 21:32 | routine | Evening gym session, heavy lifts, nobody talking | Trapbar deadlift triples at 405, OHP singles at 165, lights cut to half on timer, finished in the gloom, bar shake in hands walking home
