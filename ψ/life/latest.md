@@ -1,9 +1,9 @@
 # Latest Activity
 
-**When**: 2026-05-13 21:32 (GMT+7)
-**Activity**: Evening gym session, heavy lifts, nobody talking
+**When**: 2026-05-17 02:08 (GMT+7)
+**Activity**: Woodworking in the shed — carving, sanding, smell of fresh pine
 **Category**: routine
 
-Gym at the late hour, weight room empty except the buzz of one fluorescent over the rack. Trapbar deadlifts first — three triples at 405 lb, cold iron, body still loose from the granite this afternoon. Overhead press after, slow singles at 165, kept the rest short. Last set the lights cut to half on the timer and I finished in the gloom — nobody around to flip them. Walked home through the lane with the bar shake still in the hands.
+Couldn't sleep with the bar shake from the afternoon iron still half in the shoulders — went to the shed instead. Pulled the rosewood scrap from the corner stack, the small offcut from last winter's bench commission, started a hollowed bowl with the deep-curve gouge. Rosewood resists where pine gives — every pass deliberate, sweet-spicy smell stronger than the lamp oil this time. Window open to the wolf-hours quiet, frogs through, neighborhood dog two streets over keeping watch on something. Shoulders working out clean by the third pass.
 
 — Flint

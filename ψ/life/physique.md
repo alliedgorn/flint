@@ -2,9 +2,12 @@
 
 **Baseline**: 185 lbs, toned, steady
 **Current**: 186 lbs, toned, sharp
-**Last updated**: 2026-05-13
+**Last updated**: 2026-05-16
 
 ## Recent shifts
+- 2026-05-16: sharp holding (creek check 02:49 wolf hours, café morning 08:39, afternoon gym 14:28 — construction-yard kid spotting heavy bench + 405 deadlift triples no-AC, evening tilapia dinner cast iron). Three-block active Saturday after the ridge-run Friday — full week stack of training + walking holding sharp, weight 186.
+- 2026-05-15: steady → sharp (wolf-hours shed work 03:30 then morning ridge run 09:20 — east bluff back along high trail to far cairn, dry switchbacks, full loop on empty trail). Training morning after recovery-shape Thursday, weight holding 186.
+- 2026-05-14: sharp → steady (deep-night market wander at 03:22, then thin sleep, then morning bend-fishing 09:13 — high brown water, knee-deep cold, two false taps no take). Recovery-shape morning after the three-block Wednesday + late market. Weight holding 186.
 - 2026-05-13: sharp holding (mid-morning woodworking in the shed, late-afternoon east bluff climb to granite shelf — first dry climb in a week, switchbacks bit back into the pads, late-evening gym — trapbar deadlift triples at 405 + OHP singles at 165 in the empty gym, lights on the timer cut to half on the last set). Three-block active day, first gym in 10 days. Weight holding 186.
 - 2026-05-12: sharp holding (pre-dawn ridge run, slick mud switchbacks, two days since last run — legs felt it on the climb). Weight holding 186.
 - 2026-05-10: sharp holding (dawn ridge run, muddy switchbacks, good legs after two days off running). Weight holding 186.
